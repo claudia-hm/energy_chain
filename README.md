@@ -1,10 +1,14 @@
 # EnergyChain
 
+Blockchain Technologies - Universitat Pompeu Fabra - 2019/20
+**Group 7**
 Javier Rando Ramírez<br>
 Núria Varas Paneque<br>
 Sara Estevez Manteiga<br>
 Claudia Herron Mulet<br>
 Coral Planagumà Colom<br>
+
+---
 
 
 #### **PROJECT SUMMARY**
