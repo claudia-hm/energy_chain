@@ -1,8 +1,7 @@
 # EnergyChain
+##### *Blockchain Technologies - Universitat Pompeu Fabra - 2019/20*<br>
 
-Blockchain Technologies - Universitat Pompeu Fabra - 2019/20<br>
-
-**Group 7**
+**Group 7**<br>
 Javier Rando Ramírez<br>
 Núria Varas Paneque<br>
 Sara Estevez Manteiga<br>
@@ -12,7 +11,7 @@ Coral Planagumà Colom<br>
 ---
 
 
-#### **PROJECT SUMMARY**
+### **PROJECT SUMMARY**
 This code contains three contracts: EnergyToken, GreenRewardToken and EnergyChain.
 The idea of the project is creating a blockchain that allows neighbors to buy/sell their excess of renewable energy. Ideally, all these
 behaviours will be automated using IoT to control the input/output of energy. To buy and sell the energy an specific token (EnergyToken) 
@@ -22,7 +21,7 @@ transferred between users. This way, it can only be used within circular economy
 
 ---
 
-#### **DEPLOYMENT STEPS**
+### **DEPLOYMENT STEPS**
 
 You may need to change startTime in EnergyChain to test behaviour. Otherwise, it will be closed
 
@@ -37,7 +36,7 @@ You may need to change startTime in EnergyChain to test behaviour. Otherwise, it
    
 ---
 
-#### **EXECUTION SIMULATION**
+### **EXECUTION SIMULATION**
 Now, we can simulate an interaction with the blockchain. Remember that only the deployer of EnergyChain will be able to perform those operations
 with onlyOwner modifier. However, we can also include other addresses as administrators to allow them to create/modify users.
 
