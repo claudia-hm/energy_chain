@@ -1,6 +1,7 @@
 # EnergyChain
 
-Blockchain Technologies - Universitat Pompeu Fabra - 2019/20
+Blockchain Technologies - Universitat Pompeu Fabra - 2019/20<br>
+
 **Group 7**
 Javier Rando Ramírez<br>
 Núria Varas Paneque<br>
@@ -19,6 +20,7 @@ is used and also, we have implemented a GreenRewardToken that works as a reward 
 also integrated within other projects, creating a circular economy trading tool. It cannot be exchanged for regular money but only 
 transferred between users. This way, it can only be used within circular economy projects.
 
+---
 
 #### **DEPLOYMENT STEPS**
 
@@ -32,6 +34,8 @@ You may need to change startTime in EnergyChain to test behaviour. Otherwise, it
    It contains all the main behaviours of the network (buy and sell energy between neighbors).
 4. The following step is adding the EnergyChain contract as an administrator for the GreenRewardToken. Only authorized users/contracts
    can issue this token. For this, use the addAdmin function within GreenRewardToken and introduce EnergyChain address.
+   
+---
 
 #### **EXECUTION SIMULATION**
 Now, we can simulate an interaction with the blockchain. Remember that only the deployer of EnergyChain will be able to perform those operations
