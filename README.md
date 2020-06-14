@@ -7,6 +7,7 @@
    <b> <i>Buy and sell renewable energy between neighbours without intermediaries</i> </b>
 </p>
 
+---
 
 
 ##### *Blockchain Technologies - Universitat Pompeu Fabra - 2019/20*<br>
