@@ -1,12 +1,23 @@
-# EnergyChain
-##### *Blockchain Technologies - Universitat Pompeu Fabra - 2019/20*<br>
+# EnergyChain 
 
+<p align="center">
+  <img width="10%" src="https://github.com/javirandor/energy_chain/blob/master/logo.png" >
+</p>
+<p align="center">
+   <b> <i>Buy and sell renewable energy between neighbours without intermediaries</i> </b>
+</p>
+
+
+
+##### *Blockchain Technologies - Universitat Pompeu Fabra - 2019/20*<br>
 **Group 7**<br>
 Javier Rando Ramírez<br>
 Núria Varas Paneque<br>
 Sara Estevez Manteiga<br>
 Claudia Herron Mulet<br>
 Coral Planagumà Colom<br>
+
+
 
 ---
 
@@ -46,3 +57,5 @@ with onlyOwner modifier. However, we can also include other addresses as adminis
 4. Now that we have EnergyToken in the buyer account, we can buy energy in the EnergyChain. For this, use buyEnergy function.
 5. Finally, we can check that the balances in the EnergyToken have been updated and also both addreess have been rewarded for 
    buying/selling energy.
+   
+   
